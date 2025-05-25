@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jamesrusso/semantic-version-playground/compare/v1.0.0...v1.0.1) (2025-05-25)
+
+
+### Bug Fixes
+
+* update version in version.js ([67ad0f9](https://github.com/jamesrusso/semantic-version-playground/commit/67ad0f900f31fbef6e173707ab779c38212ca378))
+
 # 1.0.0 (2025-05-25)
 
 
