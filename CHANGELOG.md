@@ -1,3 +1,15 @@
+# [2.0.0-next.1](https://github.com/jamesrusso/semantic-version-playground/compare/v1.3.2...v2.0.0-next.1) (2025-05-25)
+
+
+### Features
+
+* add a new feature ([1e9bdbd](https://github.com/jamesrusso/semantic-version-playground/commit/1e9bdbd083844005f00183692f5091a753934dda))
+
+
+### BREAKING CHANGES
+
+* this is a breaking change.
+
 ## [1.3.2](https://github.com/jamesrusso/semantic-version-playground/compare/v1.3.1...v1.3.2) (2025-05-25)
 
 
