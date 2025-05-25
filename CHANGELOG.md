@@ -1,3 +1,10 @@
+## [1.3.2-next.1](https://github.com/jamesrusso/semantic-version-playground/compare/v1.3.1...v1.3.2-next.1) (2025-05-25)
+
+
+### Bug Fixes
+
+* add another period to feature 5 ([8e424db](https://github.com/jamesrusso/semantic-version-playground/commit/8e424db63d749bd5c54ea3cd33ff6a45ebf97e59))
+
 ## [1.3.1](https://github.com/jamesrusso/semantic-version-playground/compare/v1.3.0...v1.3.1) (2025-05-25)
 
 
