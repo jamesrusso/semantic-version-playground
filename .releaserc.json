@@ -7,7 +7,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "echo 'export const VERSION = \"${nextRelease.version}\"' > src/version.js"
+        "prepareCmd": "echo 'export const VERSION = \"${nextRelease.version}\"' > version.js"
       }
     ],
     ["@semantic-release/git", {
