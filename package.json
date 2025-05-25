@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Starter repo for semantic-release with GitHub Actions and Conventional Commits",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.0.0",
