@@ -5,6 +5,7 @@
   "scripts": {
     "prepare": "husky"
   },
+  "type": "module",
   "devDependencies": {
     "@commitlint/cli": "^18.0.0",
     "@commitlint/config-conventional": "^18.0.0",
