@@ -1,3 +1,10 @@
+# [1.1.0-next.2](https://github.com/jamesrusso/semantic-version-playground/compare/v1.1.0-next.1...v1.1.0-next.2) (2025-05-25)
+
+
+### Features
+
+* feature [#3](https://github.com/jamesrusso/semantic-version-playground/issues/3) ([#4](https://github.com/jamesrusso/semantic-version-playground/issues/4)) ([f1d5515](https://github.com/jamesrusso/semantic-version-playground/commit/f1d5515619900d199f3923e7e3bdeb0c83b6f4ef))
+
 # [1.1.0-next.1](https://github.com/jamesrusso/semantic-version-playground/compare/v1.0.1...v1.1.0-next.1) (2025-05-25)
 
 
