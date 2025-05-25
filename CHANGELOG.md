@@ -1,0 +1,13 @@
+# 1.0.0 (2025-05-25)
+
+
+### Bug Fixes
+
+* don't include release notes in commit message ([b6277f0](https://github.com/jamesrusso/semantic-version-playground/commit/b6277f0d1eeadc9ddb554f68dbf7a8a08c9f4669))
+* the commit hook ([3fe3d8f](https://github.com/jamesrusso/semantic-version-playground/commit/3fe3d8f4b65e08f89f313c92c375681ac3b5f5c1))
+
+
+### Features
+
+* add some example code ([1d4029f](https://github.com/jamesrusso/semantic-version-playground/commit/1d4029f4af7886f78a849e7b616337a2206fe1bf))
+* initial commit ([bd5f2a5](https://github.com/jamesrusso/semantic-version-playground/commit/bd5f2a519afbcd628be48bf8c17af7ef6da3031f))
