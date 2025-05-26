@@ -1,5 +1,3 @@
-# [2.0.0-next.2](https://github.com/jamesrusso/semantic-version-playground/compare/v2.0.0-next.1...v2.0.0-next.2) (2025-05-26)
-
 
 ### chore
 
