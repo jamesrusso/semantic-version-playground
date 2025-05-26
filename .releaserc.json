@@ -4,6 +4,11 @@
       "name": "next",
       "prerelease": true,
       "channel": "next"
+    },
+    {
+      "name": "beta",
+      "prerelease": true,
+      "channel": "beta"
     }
   ],
   "plugins": [
