@@ -1,27 +1,3 @@
-# [2.0.0](https://github.com/jamesrusso/semantic-version-playground/compare/v1.3.2...v2.0.0) (2025-05-26)
-
-
-### chore
-
-* **release:** Release v2.0.0 ([498ed49](https://github.com/jamesrusso/semantic-version-playground/commit/498ed49b4c122593c0fc4317cdc81e9239fcd814))
-
-
-### Features
-
-* add a new feature ([1e9bdbd](https://github.com/jamesrusso/semantic-version-playground/commit/1e9bdbd083844005f00183692f5091a753934dda))
-
-
-### BREAKING CHANGES
-
-* **release:** this is a breaking change.
-
-* chore(release): 2.0.0-next.1 [skip ci]
-
-* docs: new README.md file
-* this is a breaking change.
-
-# [2.0.0-next.2](https://github.com/jamesrusso/semantic-version-playground/compare/v2.0.0-next.1...v2.0.0-next.2) (2025-05-26)
-
 
 ### chore
 
